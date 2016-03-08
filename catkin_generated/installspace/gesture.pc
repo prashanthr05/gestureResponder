@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: gesture
+Description: Description of gesture
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

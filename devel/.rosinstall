@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/prashanthr05/catkin_ws/src/gesture/devel/setup.sh

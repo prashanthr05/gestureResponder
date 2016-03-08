@@ -1,0 +1,8 @@
+prefix=/home/prashanthr05/catkin_ws/src/gesture/devel
+
+Name: gesture
+Description: Description of gesture
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/prashanthr05/catkin_ws/src/gesture/devel/lib 
+Requires: 

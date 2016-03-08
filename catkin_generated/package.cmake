@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "gesture")
+set(gesture_MAINTAINER "prashanthr05 <prashanthr05@todo.todo>")
+set(gesture_DEPRECATED "")
+set(gesture_VERSION "0.0.0")
+set(gesture_BUILD_DEPENDS "roscpp" "moveit_ros_planning_interface")
+set(gesture_RUN_DEPENDS "roscpp" "moveit_ros_planning_interface")
+set(gesture_BUILDTOOL_DEPENDS "catkin")
